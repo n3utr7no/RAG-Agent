@@ -1,0 +1,10 @@
+Flask
+langchain-ibm
+ibm-watsonx-ai
+langchain
+langchain-community
+chromadb
+python-dotenv
+gunicorn
+tiktoken
+pydantic 

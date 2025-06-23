@@ -12,3 +12,5 @@ A lightweight, futuristic web app that uses IBM Watsonx's foundation models to p
 - Flask (Backend)
 - LangChain + Chroma + IBM Watsonx (AI/RAG pipeline)
 - HTML/CSS + Vanilla JS (Frontend)
+
+Live Link : https://rag-agent-7e3q.onrender.com/

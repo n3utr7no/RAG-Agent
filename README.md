@@ -1,4 +1,4 @@
-# RAG-Agent 🔍🤖
+# RAG-Agent (WatsonX)
 
 A lightweight, futuristic web app that uses IBM Watsonx's foundation models to perform Retrieval-Augmented Generation (RAG) over custom user-uploaded text files. Ask questions and get accurate, context-aware answers instantly.
 
